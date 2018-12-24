@@ -14,5 +14,6 @@ And google authentication modules which can be found and downloaded at https://d
 Download the xlrotaparse.py and eventadder.py
 
 First, you will need to allow google authenticator to access your Calendar and create events.
+After than you will have your credentials.json file which should be copied to the same folder where eventadder.py is.
 Then execute python eventadder.py, choose excel file to parse, input your name and surname -> done.
 
